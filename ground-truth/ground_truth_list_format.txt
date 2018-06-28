@@ -1,0 +1,605 @@
+PEtG
+BADGE/MY721/TEPA
+poly[(9,9-dioctylfluorene-2,7-diyl)-(2,2′,3,3′,5,5′,6,6′-octafluoro4,4′-diphenylene)]
+poly{N-[1-(2′-ethylhexyl)-3-ethylheptanyl]carbazole-2,7-diyl-alt-5,8-dithien-2-yl-2,3-diphenylquinoxaline-5′,5′′-diyl}
+copoly(methyl methacrylate-butyl methacrylate)
+R-poly(α-methyl-α-ethyl-β-propiolactone)s
+PMEPL
+PBDTT−DPP90−TPD10
+poly[(9,9-dihexylfluorene-2,7-diyl)- (1,4-phenylene)]
+polybutadiene
+6FDA-HABA-g-NTDA-BDSA
+PCL-gradient-PTMC
+poly(p-chlorostyrene)
+4SO
+polytetrafluoroethylene
+PS-b-poly(4-hydroxystyrene)-b-PMMA
+poly(BMI-per-BMI-per-BC7)
+Poly(3-hexylthiophene)
+poly(15N-hexyl-N-phenylcarbodiimide)
+PMPS
+PC71BM
+Poly[(4,4′-dinonyl-2,2′-bithiazole-5,5′-diyl)-(2,1,3-benzoselenadiazole-4,7-diyl)]
+polyepichlorohydrin
+polyacrylamide
+PDMS
+poly[(9,9-dioctylfluorene-2,7-diyl)-(2,3,5,6-tetra- fluoro-1,4-phenylene)]
+PAA
+ITO/PEDOT:PSS
+poly(vinyl alcohol)
+PMMA
+Polysulfone
+PDLLA
+d-PMMA
+Poly(propylene glycol)bis(2-aminopropyl ether)
+PDMA
+OVE
+Poly(MMI-per-MMI-per-BC7)
+P3HT-b-PPCBM
+Poly(ethylene-1,2-dioxy-thiophene)
+poly[2,5-bis(4-carboxylic phenyl)styrene]
+polyethylene-block-poly(N,N-dimethylacrylamide)
+pBUa
+PIM-PMDA-OH
+poly(EMI-altBC5)
+3-Phenyl-3,4-dihydro-6-tert-butyl-2H-1,3-benzoxazine
+poly(lactic-co-glycolic acid)
+polyvinylethylene
+PCL
+poly(ferrocenylsilane)
+P(TMC-co-VSC)
+Polylactide
+PCL-b-PTMC
+Poly(acrylonitrile)
+PFTTPz
+PCL-b-TMC-b-PCL
+PC-DTQx
+poly((4-pentiloxy-3′-methyl-4′-(6-acryloxyexyloxy))azobenzene)
+PM-2
+PM-3
+PIDT−OFBPz
+Poly(tetramethyl glycolide)
+poly[2-methoxy-5-(20 - ethylhexoxy)-1,4-phenylenevinylene]
+PLA
+PPCBM
+poly(ethylene terephthalate
+PDOP-TP
+poly(2-methoxyaniline-5-phosphonic acid)
+PS-b-P2VP
+PBDTC-TT2
+PIDT−OHBPz
+poly(vinylsulfonium salts)
+PtBA
+poly(EHMI-alt-BC5)
+poly(2,6-dimethyl-1,4-phenylene ether)
+polystyrene
+PBDTT−DPP10−TPD90
+poly(p-methylstyrene)
+poly(fluorene)
+PBA
+PEG-SH
+polyurethane−urea
+PMMA-AMA
+poly(BPVS-An)
+poly(C6M/A3MA)
+TPMG1
+TPMG3
+TPMG2
+poly(VDFco-TFP)
+PC71BM/Ba/Al
+POPT
+P3PyT
+poly(1,5-dioxepan-2-one)
+PCL-b-PTMC-b-PCL
+poly(d-lactide)
+PCzTTQx
+PFS-b-PP
+PS-b-PI
+4SF
+1,4-polyisoprene
+(1→4)-2-Amino-2-deoxy-β-D-glucan
+poly(2-methoxyaniline-5-sulfonic acid)
+4SeO
+PCL80-b-PTMC80-b-PCL80
+Polystyrene
+PMA-b-POEGA
+Poly(9,9-dialkylfluorene)
+poly(9,9-dihexylfluorene)
+poly(ether ether sulfone)
+poly(diphenoxyphosphazene)
+PBDTT−DPP−TPD
+PCL/MDI/HQEE
+Poly(ε-caprolactone)
+PC61BM
+PSLA
+PVTMS
+poly(ethylene imine)
+PTEA-b-PAM
+poly(RMI)
+poly(NVC)
+poly(methyl acrylate)
+poly(trimethylsilylnorbornene)
+poly(PVS)s
+sPS
+poly(N-isopropylacrylamide)
+BADGE/TEPA
+Polystyrene/Poly(ε-caprolactone)
+PPG
+PFMS
+PPEMC
+PDOF-TP
+poly(diketopyrollopyrole)
+P(S-r-VP)
+poly[2,3-bis(3-octyloxyphenyl)quinoxaline-5,8-diyl-alt-thiophene-2,5-diyl] (
+polycaprolactone
+PS-b-poly(4-urethanopropyltriethoxysilylstyrene)-b-PMMA
+poly(diallyldimethylammonium chloride)
+Poly(ferrocenylmethylsilane)
+poly(phthalaldehyde)
+polypyrrole
+PE-g-MAH
+poly[(S)-2-hydroxybutyrate]
+PDEA
+poly(N,N-diethylacrylamide)
+PDADMAC
+PS3.7K/PCL
+poly[2,2′-(m-phenylene)-5,5′-bibenzimidazole]
+PCL80
+poly(ether ether ketone)
+PCL80-b-TMC80
+Atactic poly(lactic acid)
+PMMA/CNT
+PVMS−S−(CH2)6−OH
+Poly(anilinephosphonic acid)
+PTEA11K-b-PAM30K
+polyacrylonitrile
+Poly(3,4-ethylenedioxythiophene)-poly-(styrenesulfonate)
+PTFE
+poly(N-alkylglycine)
+PGMA-g-PS105
+Polycaprolactone
+poly(3-(4'-(3'',7''-dimethyloctoxy)-3'-pyridinyl)thiophene)
+P3HT
+poly(styrene)
+LPE
+Oligo(trimethylene carbonate)
+IPC
+poly(MMA)
+poly(MMI-alt-IB)
+poly(VDF-co-HFP)
+poly(lactide)
+poly(VDF-co-TrFE)
+poly(MMI-alt-CA5)
+poly(styrene-co-2,3,4,5,6-pentafluorostyrene)
+poly(dimethylsilmethylene)
+poly(2-hydroxybutyric acid)
+polysarcosine
+P(DMAPA)-b-P(OEGA)
+P(R-2HB)
+PTEA2K-b-PAM60K
+4OF
+PMA-b-PMA
+poly(amic acid)
+poly(4-hydroxystyrene-stat-4-methoxystyrene)
+PIs
+poly[2,7-(9,9-dioctylfluoren)-alt-5,5-(5′,8′-di-2-thinenyl-(2′,3′-bis(3′′-octyloxyphenyl)quinoxaline))]
+PBDTT−DPP50−TPD50
+polysulfone
+poly(CPVS)
+polyaspartimide,
+PEO/PVAc
+poly(S-vinyl sulfide)
+PTMSN
+Poly(MMI-alt-BC6)
+poly(n-isopropylacrylamide)
+Poly(MMI-alt-BC4)
+poly((9,9-dioctylfluorene)-2,7-diyl-alt-[4,7-bis(thiophen-5-yl)-2,1,3-benzothiadiazole]-2′,2″-diyl)
+PVOH
+poly[4,8-benzo(1,2-b:4,5-b′)-dithiophenedicarboxylate-alt-thieno(3,4-b)thiophene]
+PS-b-PDMS
+poly(1,4-phenylene ether-ether-sulfone)
+EPDM
+poly(C6M)
+poly(acrylonitrile/butyl acrylate)
+poly(dimethylsiltrimethylene)
+PS-b-PVP-b-PEO
+PDMAEMA
+poly[(10,10-dioctyl-N-methylphenazasiline-2,8-diyl)- (2,3,5,6-tetrafluoro-1,4-phenylene)]
+p(St-co-HeBiB)
+chitosan
+poly(BMI-alt-BC5)
+MEH-PPV
+poly(VDF-alt-MAF)
+poly(4-bromostyrene)
+PPA/PEtG
+PSOH
+P3HT-b-PSOH
+PS-b-PEO
+poly[(R)-3-hydroxyvalerate]
+poly(NVC)-b-poly(BPVS)
+PSt−PMMA
+PAA/PAH
+PLA-AA
+pNIPAm
+poly(vinyl acetate)
+poly(VDF)
+poly(phenylene oxide)
+PEO
+PCzTTPz
+poly(BPVS-Flu)
+poly(vinylethylene)
+MMA/BA copolymer
+PVP
+PVS
+poly(BPVS-PTZ)
+poly(3-(4-octylphenyl)thiophene)
+PFTBT
+PMMA
+polyfluorene
+Poly(methyl methacrylate)
+poly(BC5)
+poly(tert-butyl acrylate)
+Poly[(4,4′-dinonyl-2,2′-bithiazole-5,5′-diyl)-(2,1,3-benzoxadiazole-4,7-diyl)]
+PVE
+PCL10
+PEO/PLA
+Poly-3
+Poly-1
+PMMA-type
+Polythiophene
+poly(vinyl methyl ether)
+poly(ferrocenyldihydrosilane)
+poly[2,7-(9,9-dioctylfluoren)-alt-5,5-(5′,8′-di-2-thinenyl-(2′,3′-bis(5′′-octylthiophen-2′′-yl)quinoxaline))]
+PE-γ
+PFTTQx
+LB-PBD
+polyaldehydes
+poly(propylene oxide)
+poly(MMI-alt-CAm)
+poly(butylene terephthalate)
+PLA-Ma-AT
+pNIPAM
+poly(N,N-dimethylaminoethyl methacrylate)
+poly(benzyl methacrylate)
+6FDA-HABA-g-NTDA-BSPB
+UHMWPE
+PtBA/PS
+poly(2-hydroxybutanoic acid)
+PEHMA
+PATs
+poly(vinylmethyl siloxane)
+PIDT−OBPQ
+PTB7
+poly(hydroxybutyrate)
+PtBS
+poly(dimethylamino ethyl acrylate)
+poly3,4-ethylenedioxythiophene polystyrenesulfonate
+poly(nonamethylene tartrate-co-nonamethylene succinate)
+C-PDMS-14
+C-PDMS-11
+PVP-b-PEO
+C-PDMS-3
+poly(2-alkyl-2-oxazoline)
+C-PDMS-7
+polyethylene
+PVSC
+PS-b-PVP
+PPEES
+Poly[(4,4′-di(2-octyldodecyl)-2,2′-bithiazole-5,5′-diyl)-(2,1,3-benzothiadiazole-4,7-diyl)]
+poly(phthalaldehyde-co-ethyl glyoxylate)
+PDOF-OD
+polypropylene
+P(His)-b-P(OEGA)
+PEDOT:PSS
+PHEPE
+poly(butylene succinate-co-butylene malate)
+poly[(R)-2-hydroxybutyrate]
+polysilmethylene
+polysiloxane
+PAH
+poly(nonamethylene l-tartrate)
+PAN
+Polyferrocenylsilanes
+S-poly(α-methyl-α-ethyl-β-propiolactone)s
+polyisocyanate
+poly(3-(4-dodecylphenyl)thiophene)
+(R)-PPEMC
+PIM-PI
+poly(styrene-alt-maleimide)
+PBDTC-TT
+poly(methyl methacrylate)
+PLA-Ma
+poly[(N-octadecylcarbazole-3,6-diyl)-(2,3,5,6-tetra- fluoro-1,4-phenylene)]
+(S)-PPEMC
+PVAc
+PVDF
+C-PDMS
+P(CL-co-VSC)
+poly(allylamine hydrochloride)
+polyurethane
+polystyrene
+HAB
+PMMA9K/PEO6K
+Poly[(4,4′-dinonyl-2,2′-bithiazole-5,5′-diyl)-(2,3-dimethylquinoxaline-5,8-diyl)]
+EPM-g-DEM
+h-PEO
+poly(2-ethylhexyl methacrylate)
+poly(pentafluorophenyl acrylate)
+PI
+poly(vinylidene fluoride)
+PHB
+PVP-b-PS
+PEO−DME/PMMA
+EPM
+TQ1
+1,4-polybutadiene
+(S)-PPEMC-g-PBrS
+PVMS−S−(CH2)2−OH
+azo-20-CP2
+poly(PVS)
+poly(BPVS-b-NVC)
+poly(phenylene sulphide)
+PS
+PP
+poly(ethylene oxide)
+poly(tert-butyl acrylate)
+PCL10-b-TMC40-b-PCL10
+PB
+PC
+poly(VDF-alt-TFP)
+poly(MMI-alt-CA6)
+PE
+Poly-2(S)
+PIM-6FDA-OH
+PRLA
+PMAS
+P2
+P3
+poly(N-(n-propyl)glycine)
+P1
+P4
+P5
+CR-PBD
+pBnMA
+polystyrene−poly(methyl methacrylate)
+poly(α-methylstyrene)
+PGMA-g-PS44
+poly(ethylene terephthalate)
+PAAm
+MPEG
+poly(p-phenylene-ethynylene)
+poly(3-hexylthiophene)
+PCL40-b-TMC40
+chitosan-graft-poly(N-isopropylacrylamide)
+PDEAm
+poly(methyl acrylate)
+Polyacrylamide
+PS/PCL
+poly(3-alkylthiophene)
+PET
+poly(ferrocenyldimethylsilane)
+poly(methyl methacrylate)
+poly(2-isopropyl-2-oxazoline)
+PTEA5K-b-PAM30K
+PEN
+PEO
+poly(MMIalt-IB)
+PEG
+Poly(MMI-alt-BC5)
+P(S-2HB)
+P(DMAEA)
+poly(propylene glycol)
+poly(1-trimethylsilyl-1-propyne)
+(PSF)/PVP
+polydimethylsiloxane
+Poly(MMI-alt-BCm)
+poly(l-lactide)
+PBDTC-TT1
+polythiourethane
+P1’
+Poly(2,2′-dioxy-1,1′-biphenyl)phosphazene
+PLAAA2h-AT
+poly(lactide)
+poly(N-methylglycine)
+poly(3-hexylthiophene)-block-PPCBM
+poly(VF2-co-HFP)
+poly(N-vinyl carbazole)
+PBDTT−TPD100
+Polybenzoxazine
+Poly(ferrocenylsilane-b-polyphosphazene)
+HMW-PTMC
+PCL84-b-TMC72-b-PCL84
+NTDA-type sulfonated
+poly(stylene surfonic acid)
+poly(tetramethyl glycolide)
+PS54K/PCL
+poly(vinyl stearate)
+6FDA-HAB
+PIM-1
+PVMS−S−(CH2)2−CH3
+poly(2-hydroxybutyrate)
+poly(acryloyl carbonate)
+poly(BC4)
+PMMA/MWNT
+poly(trimethylammonium ethylacrylate)-b-poly(acrylamide)
+P(2HB)
+P(Lys)-b-P(OEGA)
+TMPC
+poly(dimethylsiloxane)
+4SeF
+poly(BzA-co-IBVE)
+poly(pMeOBzA-co-IBVE)
+poly(VDF-co-PMVE)
+PPA
+P(PFPA)
+P(LA-co-VSC)
+poly(2-vinylpyridine)
+Polyacrylate
+PPO
+PPM
+poly(VDF-co-F2C=CFRB)
+PPS
+PCL80-b-PTMC80
+PDLA
+PPX
+Poly(vinyl alcohol)
+pSt
+polybenzimidazole
+Poly(BPVS-DPA)
+poly(alkylthiophene)s
+PEO/PMMA
+Poly(N‑isopropylacrylamide)
+PBDTT−DPP25−TPD75
+poly(ethylene naphthalate)
+PANI
+PBCPS
+poly[2,7-(9,9-dioctylfluoren)-alt-5,5-(8′,11′-di-2-thinenyl-(2′,5′-dioctyldithieno[2′,3′-a:3′′,2′′-c]phenazine))]
+poly(styrene)-block-poly(methyl methacrylate)
+poly(IBVE)
+poly(ethylene glycol)
+poly(o-chlorostyrene)
+poly(VDF-co-H2C=CRACF3)
+poly(RMI-co-BCm)
+PMeG
+poly[(S)-lactide]
+PBrS
+Chitosan-g-PHEPE
+poly(trimethylene carbonate)
+poly(methyl methacrylate-co-anthrylmethyl methacrylate)
+NTDA-BDSA
+EPR
+poly(N,N-dimethylacrylamide)
+poly(alkinyl-p-xylylene-co-p-xylylene)
+PMEPLs
+EPC
+polypentenamere
+poly(BPVS)
+poly(ε-caprolactone)
+Benzoxazine–Benzimidazole
+polystyrene-block-poly(ethylene oxide)
+PIB
+PLLA
+PCL-co-PTMC
+PSt
+PVMS−S−(CH2)11−CH3
+polyaniline sulfonic acid
+PTMG
+poly(styrene)s
+poly[N-9′-heptadecanyl-2,7-cabazole-alt-5,5-(8′,11′-di-2-thinenyl-(2′,5′-dioctyldithieno[2′,3′-a:3′′,2′′-c]phenazine))]
+poly(BPVS-An-b-NVC)
+poly(ethylene glycol)
+poly(β-proriolactone)s
+PS-FTC
+poly(phenylene)
+PTMC
+poly(nonamethylene dl-malate)
+PS/PVP
+poly(ethylene oxide)
+PFDMS
+poly[(4,4′-dinonyl-2,2′-bithiazole-5,5′-diyl)-(benzothiadiazole-4,7-diyl)]
+poly(BzA-co-CEVE)
+SMPU
+6FDA
+polyisoprene
+poly[N-9′-heptadecanyl-2,7-cabazole-alt-5,5-(5′,8′-di-2-thinenyl-(2′,3′-bis(5′′-octylthiophen-2′′-yl)quinoxaline))]
+poly(2-methoxyaniline-5-phosphonic acid monoethyl ester)
+PMAPE
+poly(VDF-co-1234yf)
+Poly(p-xylylene)
+PCL-b-TMC
+3,6-POC-TP
+P(EPA0.5-DMAPA0.5)-b-P(OEGA)
+PVMS−S−(CH2)11−OH
+poly(RMI-alt-BCm)
+APFO-15
+Poly(BCm)s
+PS-b-PMMA
+PGMA
+poly(N-n-propylacrylamide)
+4OO
+PBT
+polyisoprene
+poly(ε-caprolactone)
+PBds
+poly(p-phenylenevinylene)
+cellulose
+Polyethyl glyoxylate
+ethylene-co-propylene
+poly(α- peptoid)
+PLA-AA5h-AT
+PBI
+Hyflon
+Polyacetal
+Coumarin-click-silicones
+poly(l-lactic acid)
+Teflon
+poly(vinyl methyl ether
+Poly[(4,4′-dinonyl-2,2′-bithiazole-5,5′-diyl)-(2-(2-ethylhexyl)-2Hbenzotriazole-4,7-diyl)]
+Poly-2(R)
+monomethoxy poly(ethylene glycol)
+poly(3- hexylthiophene-2,5-diyl)
+poly(butylene tartrate)
+PTMSP
+Poly(ether sulfone)
+PSiMe
+poly(DCPVS)
+poly(vinyl chloride)
+HO–PTMC–OH
+poly(butylene terephtalate)
+poly(tetrafluoroethylene)
+Poly(L-lactide)
+PEO-DME
+poly(vinyltrimethylsilane)
+PS/poly(2-vinylpyridine)
+PAA/PDADMAC
+Poly(MMI-co-BCm)
+PVMS
+PMA
+pHeBiB
+PVME
+poly(p-tert-butylstyrene)
+PS/poly(methyl methacrylate)
+PNIPAM
+PS3.7K
+poly(styrene-copolymer-hydroxyethyl methacrylate-2-bromoisobutyryl bromide)
+PiPrOx
+poly-(binaphthoxyphospaze)
+poly[(R)-lactide]
+poly(C6M/C61BP/A3MA)
+poly(ether imide)
+PAA/PDMAEMA
+poly(VDF-co-MAF−TBE)
+poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+PMAP
+P3PhT
+PLA-AA-AT
+PAA/PS
+poly(vinyl acetate)
+poly(PVS)-b-poly(NVC)
+poly(3-(4'-(3'',7''-dimethyloctoxy)phenyl)thiophene)
+P(pBUa-co-BI)
+poly(vinylidene fluoride)
+polyacetylenes
+copoly(styrene-acrylonitrile)
+PM-1a
+PM-1b
+P(Spm)-b-(P(OEGA)
+PBDTT−DPP100
+BADGE/Tetrad-X/TEPA
+Poly(cyclohexyl acrylate)
+poly(meth)acrylate
+PBDTT−DPP75−TPD25
+PCHA
+PBD
+poly(N-(2-hydroxyethyl)prop-2-enamide)
+mPOs
+P(OEGA)
+poly(VDF-co-2,3,3,3-tetrafluoropropene-1-ene)
+poly(sorbityl adipate)
+P(PFPA)-b-P(OEGA)
+P3HT-b-poly(perylene bismide)
+PS-b-poly(tert-butyl acrylate)
+poly[thienyl-substituted benzo[1,2-b:4,5-b′]dithiophene-pyrrolo[3,4-c]pyrrole-1,4- dione-thieno[3,4-c]pyrrole-4,6-dione]copolymers
+polyaniline
+Poly(2-isopropyl-2-oxazoline)
+PFS
