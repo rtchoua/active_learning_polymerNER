@@ -1,0 +1,477 @@
+nanocomposites
+polypeptides
+3-glycidoxypropyltrimethoxysilane
+Mn ∼ 82 700 g/mol, Mw/Mn ∼ 1.09
+comblike
+Langmuir−Blodgett
+poly(ether−imide)
+gyration
+poly(tert-butylstyrene)
+7.8 mm i.d. × 300 mm
+polybutadiene
+SPU
+alkanes
+copoly(ether ketone)s
+poly(ether sulfone)
+PC70BM
+poly(ethylene oxide)
+matrices
+polyacrylamide
+molar
+MAP
+PEO/poly(lactide)
+PDMS
+δP3HT = 14.8 ± 0.2 MPa1/2
+Polylactide
+poly(vinyl alcohol)
+PMMA
+radii
+PDLLA
+polybenzoxazine
+BADGE/MY721/TEPA/(34 wt %)EMImTFSI
+NIPAM
+dextran
+MWNT/PMMA
+PEO)/poly(methyl methacrylate
+PBT
+monodisperse
+polythiophene
+dithranol
+with the asymmetry of τa,X significantly contributed from a large difference of glass transition temperatures of those components
+PCL
+Mn = 2.7 × 103 g mol−1
+poly(acrylic acid)
+Grafts
+P3HT:PCBM
+10K
+n-hexane/high
+polyelectrolytes
+Poly(acrylonitrile)
+LC-7000
+PEO−DME)/poly(methyl methacrylate
+Plgel 5 μm MIXED-C
+cellulose
+PPCBM
+rubbers
+PS-b-P2VP
+macromonomers
+poly(ethylene glycol)
+poly(l-lactide)
+PBDTC-TT1
+acceptor
+acrylates
+PC71BM
+poly(2,6-dimethyl-1,4-phenylene ether)
+precipitant
+polystyrene
+BADGE/Tetrad-X/(34 wt %)TEPA/BMImTFSI)
+poly(2-alkyl-2-oxazolines)
+hydrophobic
+PMMA10k-Mw = 10 kg/mol, PMMA15k-Mw = 15 kg/mol, PMMA50k-Mw = 50 kg/mol, and PMMA350k-Mw = 350 kg/mol; Mw/Mn < 3
+Mn,NMR(MI-PCL)
+monolayers
+HM-PEO
+Poly(ethylene glycol)
+bilayer
+see Table 1; for comparison linear Tg for PDMS: 145−150 K, depending on crystalline fraction
+TSK GELs; GMHHR-M
+PDMS, Sylgard 184 with 5:1 mix ratio, vacuum-cured at 80 °C for 24 h
+100 000
+GN0 ≅ 3.1 × 105 Pa
+PDIs
+polyether
+thermosensitive/crystallizable
+Tetraaniline
+S-polyesters
+poly(ferrocenylsilane)
+100–500 000
+poly(ethylene oxide)−dimethyl
+PDEGA
+χTHF–P3HT = 1.04 ± 0.04
+transparence
+PS)/poly(vinyl methyl ether
+PVAc
+subphase
+thicknesses
+D-MAA-11/A-tBCEMA-5.2
+ZIF-8
+PS/poly(methyl methacrylate)
+Mn = 108 kg/mol, 99.7% hydrolyzed
+cis-polyisoprene
+LB
+ILs
+PtBMA
+PC61BM
+pBnMA/[C2mIm+][TFSA–]
+LM
+poly(ether ketone)
+poly(ethylene imine)
+LS
+poly(PVS)s
+sPS
+poly(N-isopropylacrylamide)
+chromotography
+polycarbonate
+stereoregularity
+microporosity
+BHJ
+polycaprolactone
+fillers
+PEO−DME
+poly(viny1 acetate)
+poly(N,N-diethylacrylamide)
+PDADMAC
+lattices
+poly(ether ether ketone)
+SAN
+(more
+Đ = 1.06
+poly(methyl acrylate)
+tacticity
+laponite
+PI/PtBS
+Y-shaped
+PTFE
+poly(ethylene oxide)/poly(methyl methacrylate)
+−S−(CH2)6−OH
+miscible
+macroinitiators
+P3HT
+poly(styrene)
+Mn ∼ 43 000 g/mol, Mw/Mn ∼ 1.15
+poly(vinyl chloride)
+spacers
+poly(MMA)
+poly(lactide)
+poly(styrene-co-2,3,4,5,6-pentafluorostyrene)
+PVE
+polysarcosine
+poly(ethylene terephtalate)
+P(R-2HB)
+methacrylate
+polyimide
+nanotubes
+PEO/PVAc
+Poly(ethylene oxide)
+nitroxides
+high-M
+d-PMMA
+PVOH
+stereocomplex
+compatibilizers
+macroinitiator
+PDMA
+polycaprolactone, PCL
+poly(cyclohexyl acrylate)
+PDMAEMA
+CF3–poly(VDF-co-M)–CF3
+silicate
+chitosan
+alkyl
+Melles Griot, 25-LHP-928-249, λ = 632.8 nm
+PMMA/clay
+thermoset
+electrospun
+pNIPAm
+dodecyl
+1:1 PS:P3HT by weight
+hL = 25 nm
+microdomains
+PFMS
+ionomers
+TSK
+polyurethanes
+PVP
+pNIPAM
+FTS7000
+dewets
+polyethylenes
+hydrophobicity
+comicelles
+Celite
+PS/PMMA
+55%−60%
+Poly-1
+MWDs
+poly(vinyl methyl ether)
+PVDF
+ITO
+LB-PBD
+poly(propylene oxide)
+PDI
+UPy-functionalized
+viscosities
+poly(butylene terephthalate)
+−S−(CH2)2−OH
+P(S-2HB)
+epoxy/ionic
+fullerenes
+butadiene
+trimer
+PS/poly(phenylene oxide)
+(PAA)/PS
+chromone-3-carboxaldehyde
+UHMWPE
+pBnMA/IL
+PtBA/PS
+oligomers
+MDI−HQEE
+wettability
+7K
+nanodomains
+PtBA
+polycations
+PtBMA-b-poly(glycidyl methacrylate)-b-PS
+QDs
+PtBS
+silicates
+PS-b-PMMA
+coil
+nonpolar
+Ultrahydrogel
+Tgs
+polyester
+2.4 and 4 kg/mol
+=1.06
+polypropylene
+PEDOT:PSS
+PHEPE
+bromoester
+PAA
+spacer
+PS/P3HT
+PAH
+methylcellulose
+equimolarity
+χTHF–P3HT = 0.35
+h-protonated; d-deuterated
+6264 K
+poly(allylamine hydrochloride)
+polyurethane
+tacticities
+Au
+PS2.4k-Mw = 2.4 kg/mol, PS4k-Mw = 4 kg/mol, PS48k-Mw = 48 kg/mol, PS390k-Mw = 390 kg/mol, and PS2000k-Mw = 2 000 kg/mol; Mw/Mn < 1.1
+h-PMMA
+around 20 to 1 in Figure 3 for pH 3
+noncrystalline
+PNIPAm
+Rg
+poly(ε-caprolactone)
+Blends
+chromatograph
+[Me2Si(η5-Me4C5)(NtBu)]TiCl2
+Tosoh
+P1
+1,2-dichloroethane/hexane
+PS
+PP
+PT
+PAN
+PB
+CR-PBD
+αg
+PE
+incompatibility
+PI
+bilayers
+P2
+P3
+poly(N-(n-propyl)glycine)
+EHOMO = −4.70 eV, Eg = 1.90 eV
+P4
+P5
+analogues
+polyolefin
+siloxane
+Janus
+PEG, A
+PEDOT
+abbreviation PE-g-MAH
+−65 and −15 °C for PCL and PTMC of Mn = 8000 g/mol, respectively
+MWNTs
+poly(ethylene terephthalate)
+poly(3-hexylthiophene)
+elastomer
+Poly(ferrocenylmethylsilane)
+Tg’s
+PS-b-PVP
+36.5%
+PS/PVME
+polyesters
+PSS
+PPX
+Kuhn
+poly(MMI-alt-BC6)
+PET
+nanodiamonds
+poly(ferrocenyldimethylsilane)
+poly(methyl methacrylate)
+PEM
+PEO
+92.5 wt %
+vol/vol
+PEG
+BCP
+rodlike
+∼2.5
+poly(propylene glycol)
+poly(1-trimethylsilyl-1-propyne)
+(PSF)/PVP
+polydimethylsiloxane
+Calibration
+PLLA/PDLA
+poly(tert-butyl acrylate)
+PEs
+PI)/poly(vinylethylene
+underlayer
+2.3 × 103−4.4 × 103
+PSt
+(Tosoh
+PMMA/c-MWNT
+hexanediol
+nanoparticles
+Stereoregularities
+poly(N-methylglycine)
+C60
+poly(ether sulfone)s
+Epstein
+poly(arylene ether)s
+fullerene
+BCPs
+N/Ne,0
+0.06–0.69
+PLA
+D-MAA-11/A-CCEMA-4.6
+PEO-1000/PMMA
+Mw = 18 kg/mol and 188.6 kg/mol
+Mn ∼ 1300 Da, PDI = 1.10
+892 kg/mol PS
+PPG
+poly(2-vinylpyridine)
+oligomer
+PPO
+PPS
+of1
+PDLA
+PEO/PMMA
+polytetrafluoroethylene
+nanocrystals
+PANI
+dispersity
+Poly(N-isopropylacrylamide)
+polyimides
+PBrS
+core–shell
+0.24 g
+poly(N,N-dimethylacrylamide)
+poly(dimethylsiloxane)
+PIs
+Teflon
+HLC-8120
+PLLA
+nanocomposite
+hydrogels
+HPLC
+polycation
+GPC-MALLS
+PTMC
+PS/PVP
+PFDMS
+monolayer
+I4.06/(DPPCL – 1))
+backbones
+microcapsules
+glycol
+indium
+hydrophilicity
+diols
+solutes
+thermoresponsive
+polycarbonates
+MWs
+meth)acrylates
+low-M
+heterojunction
+d-PEO
+“strong”
+78.6–95.0%
+PGMA
+grafting
+air−water
+10 kg/mol
+Polystyrene
+from 46 °C for a PCL10 block, to 55 °C for a PCL80 block
+polyelectrolyte
+PBD
+PBA
+PCBM
+PBI
+Kapton
+MAH-functionalized
+Mns
+kDa
+PBd
+Davidock
+“nanowires”
+χTHF–P3HT = 1.85
+PTMSP
+Styragel
+poly(DCPVS)
+MWNT
+d-PEO/h-PMMA
+Ns
+poly(vinyltrimethylsilane)
+PVMS
+Brushes
+CHCl3
+Mn(calc) = 6900 g/mol
+PMA
+pHeBiB
+PVME
+poly(lactic acid)
+plasticizer
+PNIPAM
+PS3.7K
+PiPrOx
+polyethylene
+poly(methyl-n-propylsilane)
+NIPAAm
+D-labeled
+mica
+modifiers
+immiscibility
+PMAA
+arrays
+MWD
+P3PhT
+TRPs
+poly(vinyl acetate)
+HM
+brittleness
+poly(vinylidene fluoride)
+copolypeptoids
+linkers
+φPFS
+(PtBA)/PS
+PS/P3HT/o-xylene
+thermoplasticity
+semicrystalline
+diol
+poly(meth)acrylate
+PCHA
+“fragile”
+poly(N-(2-hydroxyethyl)prop-2-enamide)
+cyclohexane
+PEMs
+CNT
+o-dichlorobenzene
+HEPE
+elastomers
+coronae
+poly(RMI-alt-BCm)s
+polyamide
+HM-PiPrOx
+PU-2080Plus
+PFS
+ternary
+pellets

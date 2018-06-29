@@ -1,0 +1,962 @@
+nanocomposites	0
+polypeptides	0
+skeleton	0
+melts	0
+rod	0
+a-Si-like	0
+grafted-product	1
+zinc	0
+Films	0
+gyration	0
+disk	0
+NP3	1
+silsesquioxanes	0
+benzyllithium	0
+G3	0
+segments	0
+SPS	1
+polybutadiene	1
+Figures 3b−f and S3	0
+all-trans-zigzag conformation	0
+one ACE for 130 units of MAA	0
+alkanes	0
+poly(ether sulfone)	1
+polyisoprenes	1
+90.7%	0
+polyethers	1
+labels	0
+amine-terminated	0
+nanosheets	0
+GG	1
+PC71BM	0
+open circles	0
+microgel	0
+polyvinylimidazolium	1
+matrices	1
+NPs	0
+FPIL	0
+high-molar-mass	0
+PDMS	1
+cable	0
+in cyclohexanone or hot dimethylformamide for the PS mixtures with regioregular or regiorandom PTs, respectively	0
+poly(isoprene-b-vinylethylene)	1
+poly(vinyl alcohol)	1
+ethylene−propylene-segmented	0
+MCS	1
+standards	0
+Well-defined	0
+size-exclusion	0
+[Li(G4)]][TFSA]	0
+indices	0
+polyol	1
+oligoethers	0
+Ws	0
+nanofillers	0
+gallery	1
+c-PS	1
+including comb, centipede, etc.	1
+TSK	0
+monodisperse	0
+N-Me-m-LPA	1
+fragility	0
+dithranol	1
+ktr(2)	0
+PCN	1
+PCL	1
+〈b2〉	0
+dynamics	0
+butane unit	0
+water.1	1
+index	0
+crown-ether-like	0
+poly(NIPAM-ran-acrylic acid)	1
+polyelectrolytes	0
+diffusing	0
+melt	0
+line-broadening	1
+poly(BMEGA)s	1
+cores	0
+25 000	1
+7.8 mm i.d. × 300 mm	1
+template	0
+by as much as a factor of 5	0
+Blends	0
+Me = 7010 g/mol for aPP and Me = 6850 g/mol for iPP	0
+Me	1
+components;	0
+Pathology	0
+para-substitution	0
+cross-linked	0
+Mn	0
+component	0
+HDPE	1
+PEG1000	1
+two-component	0
+Mw	0
+n-alkyl	0
+threads	0
+Kuhn	0
+PEO-based	1
+solute	0
+g-shell	0
+0.3 mL, 0.30 mmol	0
+rubbery	0
+acceptor	0
+acrylates	0
+τ(B)	0
+precursor	0
+2-[(2E)-3-(4-tert-Butylphenyl)-2-methylprop-2-enylidene]malononitrile	1
+polystyrene	1
+SV-N	1
+MK	0
+spheres	0
+wt %/wt %	0
+avidin	1
+ductility	0
+poly[(S)DBGA]s	1
+domains	0
+PHMA	1
+hydrophobic	0
+macromolecule	0
+novolac	0
+(Chart 1):	0
+poly(oxymethylene)	1
+filaments	0
+above 1.8 GPa	0
+PBMA	1
+guests	0
+more mobile in the R-P3DDT- than in the R-P3HT-rich phase	0
+Cloisite	1
+Amberlite IRC-150	0
+coatings	0
+0.1–1.4	0
+PNIPAM-carrying	1
+suspensions	0
+additive	0
+poly(vinylphenol)	1
+macromonomer	1
+materials:	0
+arms	0
+Poly(ethylene glycol)	1
+bilayer	0
+bead−springs	0
+pearl	0
+run 23	1
+1 ≤ ε	1
+high γS	0
+tape	0
+thickeners	1
+Ortho–ortho	0
+fractions	0
+endo-allyl	1
+substances	0
+spacers	0
+polyether	1
+(semi)conductor	0
+usually expressed in terms of the so-called α-relaxation	0
+Si	0
+train	0
+ASTM-150	0
+PPs	0
+Figures 1b,c	0
+SS	0
+MMT	1
+solubilizing	1
+glass transition region or rubbery	0
+microscale	0
+oxide	0
+SM	0
+Tg = 27 °C	0
+19 900	1
+thicknesses	0
+PEEK	1
+high-density	1
+nanoprecipitation	1
+Lc	0
+aPP	0
+galleries	1
+as-prepared	0
+kDa	0
+sphere	0
+iPP	0
+grafting-densities	1
+solvatophilic	0
+poly(DBGA)s	1
+rods	0
+DGEBA	0
+hydrogel	0
+silicon	1
+poly(vinyl ethyl ether)	1
+M1−M4	1
+hydrophilic	1
+Figures 3g,h	0
+PEO	1
+polyglycerols	0
+poly(ether ketone)	1
+organic/inorganic	0
+poly(methacrylic acid)	1
+multilayers	0
+polyethylenes	1
+Φ = 90%	0
+star-shaped	0
+Table 1, entries 13–14	0
+Jendrejack	0
+ABC	0
+blocks	0
+sPP	0
+bulk-like	1
+poly(N-isopropylacrylamide)	1
+250 Å, 5 μm; 1500 Å, 6 μm; 10 000 Å, 9 μm	0
+nearest-neighbor	1
+polycarbonate	0
+mesh	0
+stereoregularity	0
+PEDOT:	1
+SAMs	0
+surfactants	0
+dendron	0
+compatibility	0
+Mw = 100 000 g mol–1	0
+PS, glass transition point Tg = 373 K, surface energy γ = 40.7 mJ m−2, molecular weight Mw = 65K, polydispersity index Mw/Mn = 1.02	0
+BHJ	0
+branches	0
+tethering	1
+toughening	0
+polysilane	0
+α-acyl	0
+polycaprolactone	1
+wettability	0
+copolyester	0
+40.0 g, 300 mmol	1
+additives	0
+μ0E	0
+necklace	0
+diisocyanate	0
+fillers	0
+PVA	1
+phase-separated	0
+C6H14/Et2O	0
+thermoplastics	0
+constituents	0
+oligo-polysiloxane	1
+semidilute	0
+diols	0
+PI-b-P2VP	1
+mesogens	0
+Rg	0
+n-butyl	0
+dye	0
+drop-cast	0
+Figure 2, Supporting Information	0
+FILs	0
+poly(ether ether ketone)	1
+entangled:	0
+SAM	0
+worm-like	0
+flocculation	0
+tacticity	0
+A-PS	1
+microenvironment	0
+codissolution	0
+systems	0
+pad	1
+NIPAM	1
+C12E9	0
+polyacrylonitrile	1
+PTFE	1
+DMAB	1
+molar	0
+PILs	0
+chromatography	0
+R.H.C	1
+non-negligible	0
+material	0
+micrometer-sized	0
+compression-molded	1
+5CB and 8CB	0
+macroinitiators	0
+walls	0
+“feel”	0
+tails	0
+stereochemistry	1
+Brush-h	0
+ATRP initiator	1
+motion?	0
+silver	0
+densities	0
+single-labeled	0
+“small”	0
+thermoset	0
+Zimm-like	0
+proteins	0
+PCBM-rich	0
+token	0
+water-swollen	0
+N-H	1
+PS4000	1
+cross-linkable	0
+tracer	0
+Mp = 1050−1 870 000 g/mol	1
+templates	0
+PMMA	1
+permeation	0
+10-4−103 Hz	0
+TCFs	0
+polyamides	1
+PT-rich	0
+25.0 g, 125 mmol	1
+polysulfone	1
+polybutadiene?	1
+4.6 °C	1
+cation-exchange	0
+P2CS	1
+polyglycerol	1
+Tg = −20 °C	0
+low-molecular-weight	0
+matrix	0
+borderline	1
+spiro-annulated	1
+is1	1
+particles	0
+Poly(ethylene oxide)	1
+negative-ion	0
+compounding	1
+tactoids	1
+incoporation	0
+1-(n-octyl-)imidazole	0
+compatibilizers	0
+macroinitiator	0
+linear	0
+probes, Polysciences Inc.	0
+SV-N-NA	1
+EC	0
+standard	0
+ortho–para	0
+poly(butyl methacrylate)	1
+oligomer	0
+ZrAcac	0
+PDI = 1.1−1.4	0
+compositions	0
+polystyrenes	1
+silicate	1
+thread	0
+alkyl	0
+microphases	0
+ZnO	0
+side-chain	0
+counterpart	0
+PS/P3BT and PS/R-P3HT	0
+styrene	0
+nanopores	0
+P2CS/PVME	1
+substrates	0
+extender	1
+A-PS/3.6k	1
+dodecyl	0
+gel-permeation	0
+PEG, Sigma-Aldrich	0
+PDI = Mw/Mn	1
+microdomains	0
+thick	1
+SV-NA	1
+ionomers	1
+polyurethanes	1
+dewets	0
+RuO4	0
+two-	1
+sheet	0
+reference	0
+pNIPAAm	1
+ECM	0
+behaves	0
+UV-curable	0
+system	0
+annotation	0
+bis-thiol	0
+PVE	1
+hydrophobicity	0
+i.e., relaxor ferroelectric	0
+advection	0
+dendrimer	0
+low-ion-content	1
+shell	0
+“model”	0
+brushes	0
+Figure S02 in the Supporting Information	0
+carbosilane	0
+PEHO	1
+slides	0
+amphiphiles	0
+biomolecules	0
+PDI	1
+poly(vinyl methyl ether)	1
+constituent	0
+4:1 w:w PS/PT	0
+“frozen”	0
+GPC-101	1
+sticker	1
+mol–1and	1
+PVDF	1
+ITO	0
+lamellas	0
+compactness	0
+LLDPE	1
+lower Tg	0
+PP, Mw = 250 kg/mol, Mw/Mn = 4.1	1
+ABA	1
+bilayers	0
+viscosities	0
+PEG-based	1
+nanopatterns	0
+all the spectra are shown in Figure S4	1
+polycrystalline	0
+DL	0
+constancy	0
+BPD	1
+fullerenes	0
+DB	1
+Poly(N-isopropylacrylamide)	1
+Particles	0
+thermosetting	0
+six-end	1
+supramolecules	0
+poly(acrylic acid)	1
+chromophores	0
+oligomers	0
+DP	0
+PNIPAM	1
+PEHO-C8ImOTs	0
+nanometer-scale	0
+dishes	1
+less looped	0
+nanorods	0
+indexes	0
+low-MW	1
+dichlorobenzene	0
+subchains	0
+precursors	0
+interior	0
+glasses	0
+hydrogen-passivated	1
+0.12 g, 1.78 mmol	0
+un-cross-linked	0
+poly(caprolactone)	1
+patchy	0
+9,10-diphenylanthracence	0
+bottle	0
+capillaries	0
+PS	1
+PS-b-PMMA	1
+4T-Am-TTT	0
+sheets	0
+coil	0
+poly(NIPAAm)	1
+segment	0
+Ultrahydrogel	0
+probes	0
+Tgs	0
+polyethylene	1
+P2VP	1
+stimuli-sensitive	1
+CB, CH2Cl2, or CHCl3	0
+high-MW	1
+BP1	0
+[Li(G4)][TFSA]	0
+siloxane	0
+400 g mol−1	0
+well-dispersed	0
+Table 1, entries 2–3	0
+g/mol	0
+tubes	0
+coplymer	0
+Bassindale	0
+polypropylene	1
+PEDOT:PSS	1
+spin-coated	0
+poly(glycerol)	1
+gold	0
+probe	0
+RIs	0
+guest	0
+swells	0
+spacer	0
+PAE	1
+polysiloxane	0
+2 to 7	1
+analogue	0
+700 000	1
+poly(hexyl methacrylate)	1
+PAN	1
+sinks	1
+Silica	0
+4T-EA-TTT	0
+PC	0
+trans-conformer	0
+combs	0
+quasi-2-dim, 2	0
+oil/water	0
+actin	0
+P5Az10MA	1
+macromonomers	1
+200 mL × 3	1
+Pixels	0
+columns	0
+PCB-diyne	0
+regioregular R-P3DDT, R-P3HT, and regiorandom P3BT, P3DDT	0
+stripes	0
+PNIPAM) chain	1
+GPC	0
+nonuniform	0
+ones	0
+high-molecular-weight	0
+THF	0
+blends	0
+poly[C10VIm–][Cl–]	1
+substrate	0
+0.77 wt %	0
+aluminum	0
+comprising	0
+8.3 °C	1
+poly(ether imide)	1
+resins	0
+architecture	0
+chromatograph	0
+PNIPAM-grafted	1
+γ-crystalline	0
+high-Tg	0
+particulate	0
+Tosoh	1
+composite	0
+SiOx	0
+expands:	0
+electrodes	0
+end-capped	0
+PS–HOST 2.5% and 4%	0
+microgels	0
+Alexa-488	0
+iso-	0
+poly[100(DMCD)75(BD)25(BHPT)]	1
+bare	0
+r(O–O)	0
+seal	0
+N-H-m-LPA	1
+poly(acrylamide)	1
+poly(alkylthiophenes)	0
+arm	0
+hydrocarbon	0
+temperature.22-23	1
+surfaces	0
+coils	0
+PP	1
+poly(ethylene oxide)	1
+PT	0
+the local maximum and minimum differ by a factor of about 2 for the 31 c* loss modulus curve	0
+slip-links	0
+network-like	0
+DCTB	1
+colloids	0
+PG	1
+PE	1
+TPGS	1
+microdisc	0
+PI	1
+adsorbates	0
+reptation-driven	0
+structure:	1
+PMMA-b-P5Az10MA	1
+comparable	0
+1M	1
+LCs	0
+parent	0
+spin-cast	0
+SiO2	0
+analogues	0
+polyolefin	0
+0.200 g of particles in 200 mL of water	1
+PDI ∼ 1.50	0
+nonionic	0
+Janus	0
+inclusions	0
+Tg's	0
+crystal-like	0
+T1s	1
+TSFA	0
+comb	1
+poly(ethylene terephthalate)	1
+compatibilization	0
+solubilization	0
+10K	0
+poly(3-hexylthiophene)	1
+core/shell	1
+elastomer	0
+finite-difference	0
+Tg’s	0
+hydroxyl-terminated	1
+PS/PVME	1
+KF-804-L	1
+polyesters	1
+PSS	1
+regressions	1
+Spelco, β-DEX-325 and β-DEX-225, 30 m × 0.25 mm i.d., column oven temperature 70−95 °C, He carrier with 1.2 mL/min	0
+rubbers	0
+iniferters	1
+PET	1
+hybrids	0
+poly(methyl methacrylate)	1
+diol	0
+PES	1
+hexadecyl	0
+poly(phenylmethylsiloxane)	1
+agents	0
+lattices	0
+blending	0
+Gnomix	0
+PEG	1
+rodlike	0
+∼2.5	0
+platinum	0
+right panels	0
+choice:	0
+polydimethylsiloxane	1
+stamp	0
+kg/mol	0
+Waters	0
+blend	0
+ionomer	1
+PSt	1
+Cambridge Isotope Laboratories, 99.8% D	0
+microspheres	0
+ls	0
+PEP	1
+radii	0
+pDL54	1
+nanoparticles	0
+self-organized	0
+punch	1
+CB	0
+CA	0
+polylactide	1
+C60	0
+bulk	0
+poly(arylene ether)s	1
+CS	1
+fullerene	0
+60 and 18 mN m–1, respectively	0
+silicones	0
+HPLC	1
+macromolecules	0
+cryo-TEM-micrographs	1
+drop-casting	0
+cast	0
+grafting-from-living	1
+(having the same concentration).63	0
+PLA	1
+end-branched	1
+cages	0
+microparticles	0
+<2	0
+melt-crystallized	0
+PSF	1
+PVPh	1
+coating	0
+montmorillonite	1
+DIB	0
+decoration	0
+middle	0
+proteic	1
+0.0808 g, 81.0%	0
+protein	0
+interacts	0
+HBPA	1
+ethylene	0
+binary	0
+poly(2-vinylpyridine)	1
+PPE	0
+N-1	1
+lengths	0
+fractals	0
+formulations	0
+intrinsic	1
+MW	0
+mesogen	0
+2 mg/mL	0
+overlayer	0
+(1 − φself)φ	0
+Kapton	0
+mixtures	0
+plates	0
+HBE-containing	0
+star-branched	0
+four-armed	1
+spin-casted	0
+fly”	1
+Figure 7b,c	0
+Δz	0
+int(x)	0
+acrylamide-modified	0
+Graessley−Fetters	0
+chloroform	0
+counterparts	0
+R2 > 0.99	1
+“crowded”	0
+Bis(2-methoxyethyl)amine	1
+core−shell	1
+architectures	0
+polysilanes	0
+HLC-8220	1
+HPE	1
+length;	0
+poly(N-methyloctamethylsiloxazane)	1
+dispersity	0
+Poly(GM)	1
+i.e., < 20 mg/mL	0
+compartments	0
+soluble;	0
+solids	0
+polyimides	0
+components	0
+trains	0
+5248.77 Da	1
+surface-grafted	0
+exp(−t/τfast)	0
+behenate	0
+kinks	0
+cross-linkers	0
+trichlorobenzene	0
+poly(styrene)	1
+long-chain	0
+FPILs	0
+poly(methyl methacrylate)s	1
+poly[100(DMCD)75(BD or HD)25(HBE)]	1
+touch	1
+poly(dimethylsiloxane)	1
+10 500	0
+wafers	0
+Teflon	1
+PS/P3DDT	1
+PIL	0
+poly(vinylidene chloride)	1
+PIB	1
+PLLA	1
+nanocomposite	0
+3D-SAW	1
+samples	0
+hydrogels	0
+DCBs	0
+broad.23	0
+polydispersity	0
+as-received	1
+casting	0
+HPG-4	1
+poly(4-vinylphenol)	1
+liquidlike	0
+poly(ethylene glycol)	1
+disc-shaped	0
+GPC-MALLS	0
+copolyesters	0
+tie	0
+bidisperse	0
+hbPG	1
+UVA-sensitive	0
+cantilevers	0
+end-functionalized	0
+0.85:	0
+monolayers	0
+miktoarm	1
+IL	0
+disks	0
+polyolefins	1
+resin	0
+maximum-coverage	1
+temperature-sensitive	0
+monolayer	0
+Tosoh Corp.	1
+backbones	0
+1-(n-1H,1H,2H,2H-perfluorooctyl)imidazole	0
+epoxy	0
+NP1: 0.85 molecules/nm2	1
+composites	0
+dn/dc	0
+indium	0
+free-standing	0
+Wd	0
+POSS	0
+OD	0
+hydrophilicity	0
+hair	1
+Ca0.2Zn0.8O	0
+poly(lactide)	1
+NIPAM/AAc	1
+thermoresponsive	0
+low-density	0
+clays	1
+MWs	1
+DBGA/BMGA	1
+colloidal	0
+dimensions	0
+heterojunction	0
+which has the more intense loss peak due to its higher polarity	0
+fluids	0
+20 000	0
+adsorbability	1
+periphery	0
+polyisobutylene	1
+fragments	0
+chains	0
+77.0 ppm	1
+grafting	1
+air−water	0
+core	0
+polyfluorene/polyfluorene	0
+poly(2-chlorostyrene)	1
+lipid	0
+PIB-grafted	1
+coronas	0
+equivalent	0
+Polystyrene	1
+polyelectrolyte	0
+Figure S03 in the Supporting Information	0
+host	0
+PCBM	0
+toluene	0
+glycol	0
+hbPG-b-POM-b-hbPG	1
+heparin	0
+comparison	0
+subscript “X” embodied in the sum	1
+pair.42	0
+dendrimers	0
+column	0
+PNIPAM-incorporated	1
+methacrylate	0
+water-soluble	0
+pockets	0
+hairs	1
+PEG400	1
+78.1/16.5/5.4 mol %	0
+HOPG	0
+block	0
+as-cast	0
+monofunctional	1
+PS13500	1
+Mn,NMR = 20 700 g mol–1; Mw/Mn = 1.13	1
+Styragel	0
+poly(GM)s	1
+elevations	0
+sol	0
+d,l-lactic	1
+siloxanes	0
+brush	0
+(polystyrene	1
+Ns	0
+diameters	0
+I–III	0
+nonpolar	0
+weight	0
+shells	0
+topologies	0
+NC	0
+Si/SiOx	0
+from 100 nm to 10 μm	0
+−45	0
+quasi-two-dimensional	1
+CHCl3	0
+stars	0
+NP	1
+PVME	1
+ILs	0
+octyl	1
+alloys	0
+DNA	0
+granules	0
+PP−MMT	1
+latex	0
+polyols	0
+polysilsesquioxane	1
+polyester	1
+NIPAAm	0
+poly(NIPAM-ran-AAc)	1
+polypropylenes	1
+mica	0
+1:1 w:w PS/PT	0
+modifiers	0
+immiscibility	0
+consist	0
+PMAA	1
+arrays	0
+cells	0
+donor/acceptor	0
+samples—PSd3	0
+meta-substitution	0
+graphite	0
+−0.63lower	0
+SEC	0
+“fast”	0
+responsiveness.66	1
+self-concentration	0
+bearing	0
+∼4	0
+amino-functionalized	1
+Calibration	0
+MWD	0
+radius a ≈ 0.4 μm	0
+brittleness	0
+poly(vinylidene fluoride)	1
+linkers	0
+well-defined	0
+Tg	0
+mold	0
+well-entangled	0
+extractables	1
+graft	1
+surface-coverage	1
+nanofiller	0
+PS/R-P3HT	1
+CM	0
+self-assemble	0
+calibration	0
+semicrystalline	0
+DAN	0
+self-assembled	0
+hybrid	0
+PVME38	0
+rubber	0
+PDIs	0
+tin	0
+Rc	0
+∼15 mg	1
+imaged area up to 220 µm × 290 µm	0
+spin-coating	0
+weights	0
+[17]8-	0
+ribbons	0
+“3D”	0
+cyclohexane	0
+quartz	0
+star	0
+volumes	0
+PLGA	1
+o-dichlorobenzene	0
+cyclodisiloxanes	0
+triblock	0
+CMSL	0
+diblock	0
+PI-b-PVE	1
+pellets	0
+building	0
+Dorgan	0
+OTS	0
+wafer	0
+chains,31	0
+<10	0
+polydiacetylenes	0
+wets	0
+photoalignment	0
+dyes.15,35	0
+Au	0
+ternary	0
+submicrometer	0
+dyes	0
+thiol-terminated	0
+silica	0
+solution-cast	1
